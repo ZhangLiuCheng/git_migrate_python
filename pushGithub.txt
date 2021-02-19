@@ -1,0 +1,19 @@
+#!/bin/sh
+from git import Repo
+# cd gogs-to-gitlab3
+# for i in `ls`;
+# do
+# echo ======into $i
+# cd $i
+# git remote rm origin
+# git remote add origin http://ip:port/XXXX/$i.git(此处根据自己实际情况填写地址)
+# git push -u origin --all
+# git push -u origin --tags
+# done
+
+git remote rm origin
+git remote add origin git@github.com:ZhangLiuCheng/quanzi_java.git
+git push -u origin --all
+git push -u origin --tags
+
+

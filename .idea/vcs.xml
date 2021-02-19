@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GitSource/Archer.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/Encrypt.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/Identify.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/Math.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/MobileServer.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/PlayIN.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/Rapid.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/ReptileIdiom.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/ReptileVideo.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/ShopH5.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/WaWaJi.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/animal.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/attributed.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/babyGame.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/ball.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/book.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/circle.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/coupon.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/coupon_java.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/defend-tang.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/faceGrade.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/fill_java.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/fill_wx.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/film.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/flutter_plugin_taobao.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/flutter_weixin.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/fotomix.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/fur_heidong.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/identify_java.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/idiom_wx.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/interview.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/mom.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/movie.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/prds.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/qtt_web_tool.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/quanzi.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/rollingball.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/shop.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/tarot.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitSource/wish.git" vcs="Git" />
+  </component>
+</project>
